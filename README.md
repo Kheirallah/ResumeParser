@@ -67,7 +67,7 @@ Install NLTK, _note this will install on your computer not the venv_
 <h3>Running the Script</h3>
 Run the program with the following command `python main.py`
 
-You should receive two json files in the output folder. One for each result from each resume parser library
+You should receive two json files as output. One for each result from each resume parser library
 
 Congrats! You have parsed a resume! Feel free to try different resumes as well.
 
