@@ -1,0 +1,43 @@
+{
+    "email": "kheirallah.j.ashkar@gmail.com",
+    "phone": "(240) 374-2246",
+    "name": "Kheirallah Ashkar",
+    "total_exp": 5,
+    "university": [
+        "bowie state university"
+    ],
+    "designition": [
+        "senior associate",
+        "associate",
+        "software engineer",
+        "site reliability engineer",
+        "reliability engineer",
+        "devops",
+        "software consultant",
+        "system administrator",
+        "solutions architect"
+    ],
+    "degree": [],
+    "skills": [
+        "AND SOFTWARE PROFICIENCIES",
+        "Docker \uf09f Unix \uf09f Java \uf09f Spring \uf09f Kafka \uf09f APIs \uf09f Python \uf09f HTML/CSS \uf09f JavaScript \uf09f Angular \uf09f ReactJS \uf09f Cucumber \uf09f Jenkins \uf09f NoSQL \uf09f",
+        "SQL \uf09f AWS \uf09f Google Cloud Platform \uf09f SalesForce \uf09f Tomcat \uf09f Agile & Scrum \uf09f Git \uf09f SVN \uf09f GitHub \uf09f Bitbucket \uf09f Jira \uf09f Maven",
+        "WORK & LEADERSHIP EXPERIENCE",
+        "February 2021 \u2013 Current Capital One Washington D.C.",
+        "Senior Associate",
+        " Software Engineer",
+        "Architect",
+        " develop",
+        " and maintain various HA applications serving 150",
+        "000",
+        "000+ consumer messages daily",
+        "Migrated a NoSQL database which contained 1",
+        "000+ message history receipts for our consumers to AWS DynamoDB",
+        "Create and maintain 10+ containerized APIs in AWS which are consumed by various other public and internal consumers",
+        "Created serverless applications using AWS Lambda for batch jobs triggered by event listeners",
+        "Maintained and created multi-region deployment strategies for resiliency across applications and databases"
+    ],
+    "Companies worked at": [
+        "Amazon Web Services"
+    ]
+}
